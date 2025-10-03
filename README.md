@@ -20,7 +20,4 @@ Features:
 
 This project helped me gain hands-on experience in time series forecasting, deep learning, data preprocessing, and interactive web deployment.
 
-💡 Super excited to continue exploring the world of Machine Learning and Data Science!
 
-
-#MachineLearning #DeepLearning #Python #LSTM #Streamlit #DataScience #TimeSeries #Bitcoin #FirstProject
